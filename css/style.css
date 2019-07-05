@@ -1,0 +1,93 @@
+header {
+	background: linear-gradient(to top left, #64597d 0%, #181421 100%);
+	color: white;
+	display: flex;
+	justify-content: space-between;
+	padding: 10px;
+}
+#links {
+	display: flex;
+}
+#links p {
+	padding: 10px;
+}
+header a {
+	color: white;
+	text-decoration: none;
+}
+#createArticle {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#createArticle2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#naslov {
+	width: 500px;
+	height: 30px;
+}
+#form1 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#form1 input {
+	margin: 10px;
+}
+#form2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#form2 input {
+	margin: 10px;
+}
+#registracija {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+#registracija input {
+	margin: 10px;
+}
+.thumbnails img {
+	height: 50px;
+}
+#allArticles {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: stretch;
+	padding-left: 20%;
+	padding-right: 20%;
+}
+.oneArticle {
+	border: 10px inset #64597d;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+#allArticles a {
+	color: black;
+	text-decoration: none;
+}
+#blogImg {
+	width: 300px;
+}
+input {
+	border: 5px inset #64597d;
+	padding: 5px;
+}
+
+#button {
+	background: linear-gradient(to top left, #64597d 0%, #181421 100%);
+	color: white;
+}
